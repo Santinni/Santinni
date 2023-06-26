@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Santinni
-- 👀 I’m interested in HTML5/CSS3, ES6, React, JS, TypeScript
-- 🌱 I’m currently learning TypeScript and React
+- 👀 I’m interested in HTML5/CSS3, ES6, React, TypeScript, Next.js, Mobx
 - 💞️ I’m looking to collaborate on single page App build in React with TypeScript
 - 📫 How to reach me: https://www.linkedin.com/in/karelkutchan/
 
